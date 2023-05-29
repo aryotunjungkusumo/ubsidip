@@ -1,3 +1,3 @@
 Testing isi tulisan
-Update isi tulisan
-tambah untuk pull data
+
+tambah untuk pull datas
